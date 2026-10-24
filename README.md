@@ -3,10 +3,6 @@
 An interactive Excel dashboard for the financing department of **Horizon Islamic Bank** (a fictional bank in Kuwait).
 A manager can filter by **branch, product, customer segment, channel and month**, and every KPI and chart updates instantly.
 
-![Dashboard](dashboard.png)
-
-> All data is fictional and was created for practice.
-
 ---
 
 ## Business Question
